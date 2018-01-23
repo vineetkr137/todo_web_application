@@ -13,14 +13,14 @@
 
 ### 3) Installing Opencv 3.3.0 with both python 2.7.12 and python 3.5.2 
        Follow same steps from:-
-       [https://jkjung-avt.github.io/opencv3-on-tx2/]
+       https://jkjung-avt.github.io/opencv3-on-tx2/
 
 
 ***FOLLOW EVERY INSTRUCTION OF THE ABOVE BLOG - DO NOT MISS ANY STEPS***
 
 
 ### 4) Installing FLYCAPTURE2 with USB 3.0 
-       [https://www.ptgrey.com/support/downloads]
+       https://www.ptgrey.com/support/downloads
 
        While Downloading FlyCapture use:- 
 
