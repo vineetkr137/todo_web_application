@@ -1,10 +1,10 @@
 ## INSTALLATION GUIDE OF MONODEPTH (CPP WRAPPER)
 ## TOOLS AND REQUIREMENTS:
- opencv 3.3.0
+    opencv 3.3.0
  
- Flycapture sdk 2.11.3.*
+    Flycapture sdk 2.11.3.*
  
- Tensorflow 1.3.0
+    Tensorflow 1.3.0
 ## INSTALLATION STEPS:
 ### 1. Clone from github repository
     git clone -b vineet_devlop https://github.com/DreamVu/MVP_Software.git 
