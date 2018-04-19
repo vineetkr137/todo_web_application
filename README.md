@@ -1,6 +1,6 @@
 ## INSTALLATION GUIDE OF MONODEPTH (CPP WRAPPER)
 ## TOOLS AND REQUIREMENTS:
-    opencv 3.3.0
+    OpenCv 3.3.0
  
     Flycapture sdk 2.11.3.*
  
