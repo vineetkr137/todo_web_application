@@ -18,7 +18,7 @@ Tensorflow 1.3.0
 
 ### 4. Compiling CPP code Interface_python.cpp
 
-   g++ -c -fPIC interface_python.cpp -o foo.o `pkg-config --cflags opencv` `pkg-config --libs opencv` -L./lib -lflycapture${D}  ${FC2_DEPS} 
+    g++ -c -fPIC interface_python.cpp -o foo.o `pkg-config --cflags opencv` `pkg-config --libs opencv` -L./lib -lflycapture${D} ${FC2_DEPS} 
 ### 5. Creating shared libraray file (libfoo.so)
     g++ -shared -Wl,-soname,libfoo.so -o libfoo.so foo.o `pkg-config --cflags opencv` `pkg-config --libs opencv` -L./lib -lflycapture${D} ${FC2_DEPS}
 
