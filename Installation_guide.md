@@ -41,7 +41,8 @@
         -Add flycapture shared object file to the cmake. 
         -Build (run make on from within the build folder)
         -On Linix systems, make install run with root privileges will install the compiled library file. 
-        Alternatively, you can manually copy it to the pythonXX/dist-packages directory (replace XX with desired python version).  
+         Alternatively, you can manually copy it to the pythonXX/dist-packages directory (replace XX with
+         desired python version).  
 
 ### 4. Download Models(Sementic Segmentation) from google drive.
     $  https://drive.google.com/file/d/12Sgi_qH61Qp8vU_xachlpoT7nYqCS6m1/view?usp=sharing
