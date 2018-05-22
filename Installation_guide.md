@@ -46,9 +46,11 @@
 
 ### 4. Download Models(Sementic Segmentation) from google drive.
     $  https://drive.google.com/file/d/12Sgi_qH61Qp8vU_xachlpoT7nYqCS6m1/view?usp=sharing
+    
+### 5. Install COOCAPI.
+       - run make in COCOOAPI folder
 
-
-### 5. Run sementic Segmentation.
+### 6. Run sementic Segmentation.
     $  python demo.py
 
 
