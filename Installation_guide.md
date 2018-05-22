@@ -22,7 +22,7 @@
     
 ## INSTALLATION STEPS:
 ### 1. Clone from github repository
-        git clone -b vineet_devlop https://github.com/DreamVu/MVP_Software.git 
+    git clone -b vineet_devlop https://github.com/DreamVu/MVP_Software.git 
 
 ### 2. Install required tools and libraries.
     $   sudo apt-get install cmake-gui
