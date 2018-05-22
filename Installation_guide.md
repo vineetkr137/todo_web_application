@@ -36,7 +36,7 @@
 ### 3. Get into directory for build and Compiling process.
         -cd Sementic_segmentation_FLY/pyboostcvconverter
         -Run CMake and/or CMake-gui with the git repository as the source and a build folder of your choice
-        (in-source builds supported.) Choose desired generator, configure, and generate. Remember to set                              PYTHON_DESIRED_VERSION to 2.X for python 2 and 3.X for python 3.
+        (in-source builds supported.) Choose desired generator, configure, and generate. Remember to set PYTHON_DESIRED_VERSION to 2.X for python 2 and 3.X for python 3.                   
         -Add flycapture shared object file to the cmake. 
         -Build (run make on from within the build folder)
         -On Linix systems, make install run with root privileges will install the compiled library file. Alternatively, you            can manually copy it to the pythonXX/dist-packages directory (replace XX with desired python version).  
