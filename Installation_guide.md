@@ -34,15 +34,15 @@
     $   sudo pip install h5py
 
 ### 3. Get into directory for build and Compiling process.
-        -cd Sementic_segmentation_FLY/pyboostcvconverter
-        -Run CMake and/or CMake-gui with the git repository as the source and a build folder of your choice
-         (in-source builds supported.) Choose desired generator, configure, and generate. Remember to set 
-         PYTHON_DESIRED_VERSION to 2.X for python 2 and 3.X for python 3.                   
-        -Add flycapture shared object file to the cmake. 
-        -Build (run make on from within the build folder)
-        -On Linix systems, make install run with root privileges will install the compiled library file. 
-         Alternatively, you can manually copy it to the pythonXX/dist-packages directory (replace XX with
-         desired python version).  
+      - cd Sementic_segmentation_FLY/pyboostcvconverter
+      - Run CMake and/or CMake-gui with the git repository as the source and a build folder of your choice
+        (in-source builds supported.) Choose desired generator, configure, and generate. Remember to set 
+        PYTHON_DESIRED_VERSION to 2.X for python 2 and 3.X for python 3.                   
+      - Add flycapture shared object file to the cmake. 
+      - Build (run make on from within the build folder)
+      - On Linix systems, make install run with root privileges will install the compiled library file. 
+        Alternatively, you can manually copy it to the pythonXX/dist-packages directory (replace XX with
+        desired python version).  
 
 ### 4. Download Models(Sementic Segmentation) from google drive.
     $  https://drive.google.com/file/d/12Sgi_qH61Qp8vU_xachlpoT7nYqCS6m1/view?usp=sharing
